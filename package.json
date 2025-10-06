@@ -1,0 +1,18 @@
+{
+  "name": "interactivelanding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "firebase": "^11.6.1",
+    "three": "^0.175.0",
+    "vite": "^6.3.2"
+  }
+}
